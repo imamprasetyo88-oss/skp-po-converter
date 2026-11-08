@@ -15,7 +15,7 @@ st.set_page_config(page_title="Sistem Upload PO", layout="centered")
 # KONEKSI DATABASE HOSTINGER
 # ==========================================
 db_config = {
-    "host": "auth-db1322.hstrgr.io",  # Kembalikan ke auth-db1322.hstrgr.io
+    "host": "srv1322.hstrgr.io",  # Ubah ke srv1322.hstrgr.io
     "user": "u378956454_gudang",
     "password": "Belagu2388#",
     "database": "u378956454_gudang",
