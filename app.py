@@ -15,9 +15,9 @@ st.set_page_config(page_title="Sistem Upload PO", layout="centered")
 # KONEKSI DATABASE HOSTINGER
 # ==========================================
 db_config = {
-    "host": "srv1322.hstrgr.io",
-    "user": "u378956454_gudang",  # Sesuaikan username database Anda
-    "password": "Belagu2388#",  # Sesuaikan password database Anda
+    "host": "auth-db1322.hstrgr.io",  # Kembalikan ke auth-db1322.hstrgr.io
+    "user": "u378956454_gudang",
+    "password": "Belagu2388#",
     "database": "u378956454_gudang",
     "cursorclass": pymysql.cursors.DictCursor,
 }
